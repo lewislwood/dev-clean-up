@@ -15,6 +15,9 @@ That is why I added a confirm question and a way for the user to auto comnfirm w
 
 sinmply with -h or --help parameter for the help screen.
 
+written by Lewis L. Wood
+[Lewis L Wood WebSite](https://lewislwood.com)
+
 ## Parameters
 
 Syntax: devCleanUp -v -t -z -y myfolderPath
